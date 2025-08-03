@@ -1,1 +1,4 @@
-# Responsive-Restaurant-
+# Responsive-Restaurant
+This project is a fully responsive restaurant website built using HTML, CSS, and JavaScript. It features a clean, modern design with sections such as a homepage, menu, about us, contact form, and a reservation or ordering button. The layout adapts smoothly to different screen sizes, providing a user-friendly experience on both desktop and mobile devices. Interactive elements powered by JavaScript enhance the user experience, including features like toggling menus, smooth scrolling, and form validations.
+
+You can use this website as a template for your own restaurant or food-related project. To get started, simply clone or download the repository, and open the index.html file in your browser. All styles are in style.css and interactive behavior is managed in script.js. Feel free to customize the content, images, and styling to suit your brand. This project is perfect for showcasing your front-end development skills and understanding how to build responsive, interactive websites from scratch.
